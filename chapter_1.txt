@@ -2,3 +2,5 @@ Chapter 1. Git basic commands
 
 git status
 git add
+
+Some updates for this chapter
